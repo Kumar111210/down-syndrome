@@ -10,9 +10,5 @@ fpdf2
 python-dotenv
 requests
 ollama
-
 mediapipe
-tensorflow
-opencv-python
-mediapipe
-numpy
+waitress
